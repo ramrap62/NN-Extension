@@ -17,7 +17,7 @@ var smtpTransport = nodemailer.createTransport({
     secure:true,
     auth: {
         user: "veneela.adapa777@gmail.com",
-        pass: "Kaleesi@72001"
+        pass: ""
     }
 });
 app.use(cookieParser());
