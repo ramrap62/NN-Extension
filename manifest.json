@@ -1,6 +1,6 @@
 {
     "name": "NN-Final",
-    "description": "Censors the adult content out there in the internet",
+    "description": "Censors the adult content",
     "version": "5.0",
     "permissions":[
         "activeTab",
