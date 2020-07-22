@@ -1,10 +1,10 @@
 # NN-Extension
-Q.What is nudenet ?
+Q.What is NN ?
 
-A.Nudenet is an Google Chrome Extension, made by VIT-AP college students(names).It works on the NSFWdetector/Nudenet library of python which has been trained using number of sample images collected from adult sites.
+A.NN  is an Google Chrome Extension, made by VIT-AP college students(names).It works on the NSFWdetector/Nudenet library of python which has been trained using number of sample images collected from adult sites.
 
 
-Q.Why nudenet?
+Q.Why NN?
 
 A.Our aim to provide a SFW working environment.While suffering the internet webpages which sometimes pops up some NSFW ads or has any NSFW contents(images), Nudenet Google Chrome Extension would block all those images which does fit the score for SFW.
 
